@@ -27,3 +27,6 @@ th {
 	color:#ffffff;
 	background-color:#cc0052;
    }
+   tr:hover {
+          background-color: #ffff99;
+        }
